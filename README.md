@@ -13,8 +13,6 @@ Meu stack é focado em performance e produtividade:
 - Backend: Node.js.
 - Workflow: Trabalho em ambiente Linux e o Git é essencial no meu cotidiano.
 
-🚀 Mentalidade
-
 Embora já esteja trilhando esse caminho há mais de um ano, ainda me considero um entusiasta. Gosto de estudar a fundo, desenvolver websites do zero e entender o "porquê" das coisas.
 
 Seja explorando o sistema no Linux ou estruturando um novo projeto em TS, meu objetivo é estar sempre construindo.
