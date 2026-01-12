@@ -7,10 +7,10 @@ Se eu vejo uma tecnologia nova ou tenho uma ideia de site, eu caio de cabeça pa
 
 Meu stack é focado em performance e produtividade:
 
-  Core: JavaScript e TypeScript.
-  Frontend: React, Vite e Next.js.
-  Backend: Node.js.
-  Workflow: Trabalho em ambiente Linux e o Git é essencial no meu cotidiano.
+    Core: JavaScript e TypeScript.
+    Frontend: React, Vite e Next.js.
+    Backend: Node.js.
+    Workflow: Trabalho em ambiente Linux e o Git é essencial no meu cotidiano.
 
 🚀 Mentalidade
 
