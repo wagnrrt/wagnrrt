@@ -15,4 +15,4 @@ Meu stack é focado em performance e produtividade:
 
 Embora já esteja trilhando esse caminho há mais de um ano, ainda me considero um entusiasta. Gosto de estudar a fundo, desenvolver websites do zero e entender o "porquê" das coisas.
 
-Seja explorando o sistema no Linux ou estruturando um novo projeto em TS, meu objetivo é estar sempre construindo.
+Seja estruturando novos projetos ou explorando novas ideias, meu foco está sempre em aprender e evoluir.
