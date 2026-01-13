@@ -1,6 +1,6 @@
 E aí, eu sou o Wagner!
 
-Sou um desenvolvedor e entusiasta de tecnologia com mais de um ano de estrada nos estudos de programação. Para mim, construir projetos e explorar novas ferramentas é o que mantém o desafio interessante.
+Sou um desenvolvedor fullstack com mais de um ano de estrada nos estudos de programação. Para mim, construir projetos e explorar novas ferramentas é o que mantém o desafio interessante.
 
 Se eu vejo uma tecnologia nova ou tenho uma ideia de site, eu caio de cabeça para entender como funciona e coloco para rodar.
 
