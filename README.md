@@ -10,5 +10,5 @@ Sou desenvolvedor backend e estudo programação há mais de um ano. Meu foco es
 - Ambiente: Linux e Git no dia a dia
 
 ### Sobre mim
-programar.
+
 Eu simplesmente gosto de programar. Gosto de construir projetos, entender como as coisas funcionam por baixo dos panos e resolver problemas com código.
