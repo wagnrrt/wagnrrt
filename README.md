@@ -1,9 +1,8 @@
 <h3 align="left">Olá, meu nome é Wagner!</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/wagnrrt" style="display:inline-block; text-decoration:none;">
+  <a href="https://www.linkedin.com/in/wagnrrt">
     <img src="https://img.shields.io/badge/LinkedIn-303030?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-  <a href="mailto:wagnrb0@gmail.com" style="display:inline-block; text-decoration:none;">
+  </a><a href="mailto:wagnrb0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-303030?logo=gmail&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </div>
