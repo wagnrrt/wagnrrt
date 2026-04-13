@@ -7,8 +7,6 @@
 Desenvolvedor Backend focado no ecossistema JavaScript e TypeScript.  
 Curioso e persistente, busco constantemente aprimorar minhas habilidades na construção de aplicações web.
 
----
-
 [![Node.js](https://img.shields.io/badge/Node.js-303030?logo=nodedotjs&logoColor=white&style=for-the-badge)](#)&nbsp;
 [![TypeScript](https://img.shields.io/badge/TypeScript-303030?logo=typescript&logoColor=white&style=for-the-badge)](#)&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-303030?logo=javascript&logoColor=white&style=for-the-badge)](#)&nbsp;
