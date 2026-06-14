@@ -1,6 +1,6 @@
 <div align="center">
 
-## Olá, meu nome é Wagner!
+### Olá, meu nome é Wagner!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagnrrt)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-303030?logo=gmail&logoColor=white&style=for-the-badge)](mailto:wagnb0@gmail.com)
 
