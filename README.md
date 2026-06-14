@@ -1,16 +1,6 @@
-<div align="center">
-
 ## Olá, meu nome é Wagner!
 
-<a href="https://www.linkedin.com/in/wagnrrt">
-  <img src="https://img.shields.io/badge/LinkedIn-303030?logo=linkedin&logoColor=white&style=for-the-badge" />
-</a>
-&nbsp;
-<a href="mailto:wagnrb0@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-303030?logo=gmail&logoColor=white&style=for-the-badge" />
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagnrrt)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-303030?logo=gmail&logoColor=white&style=for-the-badge)](mailto:wagnrb0@gmail.com)
 
 ---
 
