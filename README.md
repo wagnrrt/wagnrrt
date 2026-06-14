@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-303030?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/wagnrrt)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-303030?logo=gmail&logoColor=white&style=for-the-badge)](mailto:wagnb0@gmail.com)
 
-</div>
 
 ---
 
@@ -23,3 +22,5 @@ Curioso e persistente, busco constantemente aprimorar minhas habilidades na cons
 [![JWT](https://img.shields.io/badge/JWT-303030?logo=jsonwebtokens&logoColor=white&style=for-the-badge)](#)&nbsp;
 [![Linux](https://img.shields.io/badge/Linux-303030?logo=linux&logoColor=white&style=for-the-badge)](#)&nbsp;
 [![Git](https://img.shields.io/badge/Git-303030?logo=git&logoColor=white&style=for-the-badge)](#)
+
+</div>
